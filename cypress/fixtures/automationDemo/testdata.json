@@ -1,0 +1,35 @@
+{
+  "MenuItems":
+  {
+    "Menu1": "Home",
+    "Menu2": "Register",
+    "Menu3": "WebTable",
+    "Menu4": "SwitchTo",
+    "Menu5": "Widgets",
+    "Menu6": "Interactions",
+    "Menu7": "Video",
+    "Menu8": "WYSIWYG",
+    "Menu9": "More",
+    "Menu10": "Practice Site"
+  },
+  "RegisterForm":{
+    "FirstName" : "",
+    "LastName" : "",
+    "Address" : "",
+    "Email" : "",
+    "Phone" : "",
+    "Gender" : "",
+    "Hobbies" : "",
+    "Language1" : "",
+    "Language2" : "",
+    "Language3" : "",
+    "Skills" : "",
+    "Country" : "",
+    "DOBYear" : "",
+    "DOBMonth" : "",
+    "DOBDay" : "",
+    "Password" : ""
+  }
+
+
+}
