@@ -3,8 +3,8 @@ Sample cypress practise project
 
 ## Getting Started
 ```
-1. git clone https://github.com/sadabnepal/WDIO6_TypeScript_BDD.git
-2. Navigate to `WDIO6_TypeScript_BDD`
+1. git clone https://github.com/sadabnepal/CypressAutomation.git
+2. Navigate to `CypressAutomation`
 3. In the terminal, Perform "npm i" to install all the dependencies present in the package.json file.
 ```
 
