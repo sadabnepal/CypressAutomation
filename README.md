@@ -8,10 +8,9 @@ Sample cypress practise project
 3. In the terminal, Perform "npm i" to install all the dependencies present in the package.json file.
 ```
 
-## Runing a Test and Generate Report
+## Runing a Test
 ```
 1. In the terminal, perform `npm run test` to start the script execution
-2. In the terminal, perform `npm run report` to start the script execution
 ```
 
 ### Reports used
