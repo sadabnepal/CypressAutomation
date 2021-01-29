@@ -5,11 +5,11 @@
   "main": "index.js",
   "scripts": {
     "test": "node_modules/.bin/cypress run --headed",
-    "test_record" : "node_modules/.bin/cypress run --record --key YOUR_KEYS_GOES_HERE"
+    "test_record": "node_modules/.bin/cypress run --record --key YOUR_KEYS_GOES_HERE"
   },
   "author": "MD SADAB SAQIB",
   "license": "ISC",
   "devDependencies": {
-    "cypress": "^5.2.0"
+    "cypress": "^6.3.0"
   }
 }
