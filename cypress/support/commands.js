@@ -23,3 +23,6 @@
 //
 // -- This will overwrite an existing command --
 // Cypress.Commands.overwrite("visit", (originalFn, url, options) => { ... })
+Cypress.Commands.add("getElement", (selector) => {
+    return cy.wrap(Cypress.$(selector)).should("have.length.gte", 1);
+});
