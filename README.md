@@ -17,4 +17,4 @@ Sample cypress practise project
 - Yet to implement
 
 ### Sample Report
- 
+![CypressResult](https://user-images.githubusercontent.com/65847528/108173349-07e2d680-7124-11eb-945e-abeb6f7a5103.PNG)
