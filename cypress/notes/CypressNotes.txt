@@ -1,0 +1,27 @@
+Cypress Install
+---------------
+npm init
+npm install cypress --save-dev   (install cypress)
+npx cypress open   (open cypress)
+npx cypress run (run through terminal directly in headless mode)
+npx cypress run --headed (run which opens browser)
+npx cypress run --headed --spec "path of specific test"
+
+
+Frameworks
+----------
+Mocha (suggested by cypress and default)
+Jasmin
+
+Folder structure
+----------------
+fixture (test data)
+integration\examples (Tests)
+plugin (event listener)
+screenshots
+support (reusable test)
+videos  (recorded videos)
+cypress.json (override default setting configurations for runner)
+
+Supports only CSS selector
+Only Chrome browser supported as of now
