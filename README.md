@@ -3,8 +3,8 @@ Sample cypress practise project
 
 ## Getting Started
 ```
-1. git clone https://github.com/sadabnepal/CypressMochaAutomation.git
-2. Navigate to `CypressMochaAutomation`
+1. git clone https://github.com/sadabnepal/CypressMochaFramework.git
+2. Navigate to `CypressMochaFramework`
 3. In the terminal, Perform "npm i" to install all the dependencies present in the package.json file.
 ```
 
